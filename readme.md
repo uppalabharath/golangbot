@@ -1,0 +1,1 @@
+1. This repo is a practise repo and follows examples from golangbot.com
