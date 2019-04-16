@@ -1,0 +1,4 @@
+github.com/uppalabharath/greeting v1.0.1 h1:IJsXXFyZ0uj9OrLBPGy4KuyCcPlLqDfLuwJ6XtUc5WA=
+github.com/uppalabharath/greeting v1.0.1/go.mod h1:BaVV3tbF2lcuesZkWjDAhpMuiyQLHwi69CdKkjXlDtc=
+github.com/uppalabharath/greeting/v2 v2.0.0 h1:SGyaCXpNuhJ07yJkc0oWOJ2a6sIYW4HMkqx9ouoOJnM=
+github.com/uppalabharath/greeting/v2 v2.0.0/go.mod h1:2ru/nUnDU2C0oMX8gd3mkB51hgBxdiZY1HC6SCdGZok=

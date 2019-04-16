@@ -1,0 +1,3 @@
+Pass on the fpath argument for the program....
+Eg: go run <program>.go -fath=/path-to-file/filename
+Else this file would get picked up :)
