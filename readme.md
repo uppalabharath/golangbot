@@ -20,4 +20,4 @@
             * Used in String manipulation tasks
     * string
 
-3. https://golang.org/pkg/fmt/ -- Reference for ft package
+3. https://golang.org/pkg/fmt/ -- Reference for fmt package
